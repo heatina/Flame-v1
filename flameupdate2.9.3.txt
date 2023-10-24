@@ -1,0 +1,8 @@
+>Update Token section
+Refer to heatina.com
+>autoCFH
+Use CFH data to pre-select holdon
+based on historic heat-up periods.
+>flame.sh
+delete CFHdata entries olde than 25hours.
+
