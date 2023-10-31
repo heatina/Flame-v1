@@ -1,0 +1,19 @@
+>about.php
+Get hostname from config.
+>Remote control
+Update to use heatina.com
+>Update Token section
+Refer to heatina.com
+>autoCFH
+Use CFH data to pre-select holdon
+based on historic heat-up periods.
+>flame.sh
+delete CFHdata entries olde than 25hours.
+>WatchDog.sh
+Added monitoring of flame.sh
+>autoCFH.sh
+Bug fixes
+>flame.sh
+Fixed bug reading CFHdata when
+ heatup used
+
