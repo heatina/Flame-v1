@@ -1,0 +1,8 @@
+>WatchDog.sh
+Added monitoring of flame.sh
+>autoCFH.sh
+Bug fixes
+>flame.sh
+Fixed bug reading CFHdata when
+ heatup used
+
