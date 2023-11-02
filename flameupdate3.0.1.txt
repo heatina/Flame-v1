@@ -1,0 +1,6 @@
+>autoCFH.sh
+Avoid last & copy of CFH data line
+ to avoid false low/high stats.
+>updateurl.txt
+Moved to new Github repo.
+
