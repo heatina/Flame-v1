@@ -1,0 +1,11 @@
+>flame.sh
+Added autoHoldOff
+Tidy-up
+>graph.cfh.init.sh
+Adjusted to include autoHoldOff
+>autoCFH.sh
+Adjusted for autoHoldOff
+Re-worked auto-holdOn timer adjustments
+>settings-advanced.php
+Added autoHoldOff
+
