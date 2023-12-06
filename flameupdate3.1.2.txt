@@ -1,0 +1,7 @@
+>flame.sh
+Add new line to CFHdata
+ on timer change
+>autoCFH.sh
+Removed add new line on
+ temp changes.
+
