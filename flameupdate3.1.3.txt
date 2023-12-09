@@ -1,0 +1,8 @@
+>autoCFH.sh
+Use temp now instead
+ of Average.
+>flame.sh
+Re-arranged autoCFH
+>readTemp.sh
+Removed Av. temp usage.
+
