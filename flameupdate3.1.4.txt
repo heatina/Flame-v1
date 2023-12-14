@@ -1,0 +1,4 @@
+>autoCFH.sh
+Bug fix...
+ Fixed not finding previous 24hour timers.
+
