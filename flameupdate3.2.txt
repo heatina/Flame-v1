@@ -1,0 +1,22 @@
+>flame.sh
+Added autoHoldOff.
+Tidy-up.
+Add new line to CFHdata
+ on timer change.
+Re-arranged autoCFH.
+>graph.cfh.init.sh
+Adjusted to include autoHoldOff
+>autoCFH.sh
+Adjusted for autoHoldOff
+Re-worked auto-holdOn timer adjustments
+Removed add new line on
+ temp changes.
+Use temp now instead
+ of Average.
+Bug fix...
+ Fixed not finding previous 24hour timers.
+>settings-advanced.php
+Added autoHoldOff.
+>readTemp.sh
+Removed Av. temp usage.
+
