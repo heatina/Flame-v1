@@ -1,0 +1,5 @@
+flameupdate3.2.2
+
+>autoCFH.sh
+Adjusted 24hr timer match to be 60% of previous.
+
