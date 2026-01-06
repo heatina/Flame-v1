@@ -1,0 +1,6 @@
+autoCFH Bug fix.
+Adjusted 24hr timer match to be 60% of previous.
+Added Profiles settings area.
+Allow copying of profiles.
+Add missing 'copy profile to persistent' in flame.sh
+
