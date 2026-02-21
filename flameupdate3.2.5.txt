@@ -1,0 +1,9 @@
+files updated - bug fixes
+/mnt/sdcard/autom8/flame.sh
+/mnt/sdcard/autom8/scheduler.sh
+/mnt/sdcard/autom8/apiPost.sh
+/mnt/sdcard/autom8/apiGet.sh
+/mnt/sdcard/autom8/wifiSelect.sh
+/mnt/sdcard/autom8/input-reset-button.sh
+/mnt/sdcard/autom8/configupdate/postConfigRst.sh
+/mnt/sdcard/www/restricted/settings-advanced.php
